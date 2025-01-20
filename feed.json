@@ -76,8 +76,8 @@
             "id": "https://leipishu-mcsmpserver.us.kg/log.html",
             "url": "https://leipishu-mcsmpserver.us.kg/log.html",
             "title": "服务器建设日志",
-            "summary": "√ 2025.1.14 服务器创建完成",
-            "content_html": "<p><span style=\"color: #169179;\">√ 2025.1.14 <span style=\"color: #000000;\">服务器创建完成</span></span></p>",
+            "summary": "√ 2025.1.14 服务器创建完成 √ 2025.1.19 FRHSB级-4C8T刷铁机建造完成",
+            "content_html": "<p><span style=\"color: #169179;\">√ 2025.1.14 <span style=\"color: #000000;\">服务器创建完成</span></span></p>\n<p><span style=\"color: #169179;\">√ 2025.1.19 <span style=\"color: #000000;\">FRHSB级-4C8T<span style=\"color: #169179;\"><span style=\"color: #000000;\">刷铁机建造完成</span></span></span></span></p>",
             "image": "https://leipishu-mcsmpserver.us.kg/media/posts/3/Ping-Mu-Jie-Tu-2024-07-31-193120.png",
             "author": {
                 "name": "leipishu_服主"
@@ -85,7 +85,7 @@
             "tags": [
             ],
             "date_published": "2024-07-31T19:33:54+08:00",
-            "date_modified": "2025-01-14T17:10:22+08:00"
+            "date_modified": "2025-01-20T16:17:57+08:00"
         },
         {
             "id": "https://leipishu-mcsmpserver.us.kg/notice.html",
