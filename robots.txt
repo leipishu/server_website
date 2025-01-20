@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://leipishu-mcsmpserver.us.kg/sitemap.xml
