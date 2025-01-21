@@ -3,7 +3,7 @@
     <title>leipishu-mcsmpserver</title>
     <link href="https://leipishu-mcsmpserver.us.kg/feed.xml" rel="self" />
     <link href="https://leipishu-mcsmpserver.us.kg" />
-    <updated>2025-01-21T11:21:06+08:00</updated>
+    <updated>2025-01-21T12:35:12+08:00</updated>
     <author>
         <name>leipishu_服主</name>
     </author>
@@ -208,11 +208,54 @@
         <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" medium="image" />
 
         <updated>2024-07-31T19:21:59+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" alt="" />
+                    当前服务器升级完成！ 注：大家模组不要自己去PCL上下，这玩意只有GitHub有，CF和MT都没有 服务端：更新MOTD 这个就单纯写一下，你们要看种子啥的官网也都有，纯粹好看
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="msg msg--highlight  msg--success align-center"><strong><span style="color: #169179;">当前服务器升级完成！</span></strong></p>
+<h4>具体升级项目</h4>
+<ul>
+<li>
+<h6>客户端：MASA全家桶</h6>
+<ul>
+<li>应大家的要求加入了除carpet以外的重要生电模组
+<ul>
+<li style="padding-left: 0.457143rem;">Tweakroo</li>
+<li style="padding-left: 0.457143rem;">MaLiLib</li>
+<li style="padding-left: 0.457143rem;">MiniHud</li>
+<li style="padding-left: 0.457143rem;">Litematica（投影）</li>
+</ul>
+</li>
+<li>本来准备用<span style="color: #236fa1;"><em>信雅互联</em></span>的，但是这玩意实在是脑抽，而且会和Optifine冲突（这玩意搞了我半小时最后放弃了）</li>
+<li>后老找了半天终于在GitHub上找到了大佬的移植版本，虽然已经Archive了，但是好在1.20.1版本刚好有，所以就加了，也没啥bug</li>
+<li><strong>下载链接</strong>
+<ul>
+<li>主链接：<a href="https://www.123865.com/s/O2wzjv-0CtK3?">https://www.123865.com/s/O2wzjv-0CtK3?</a></li>
+<li>备用链接：<a href="https://www.123684.com/s/O2wzjv-0CtK3?">https://www.123684.com/s/O2wzjv-0CtK3?</a></li>
+<li>提取码：masa</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p class="msg msg--highlight ">注：大家模组不要自己去PCL上下，这玩意只有GitHub有，CF和MT都没有</p>
+<ul>
+<li><strong>服务端：更新MOTD</strong>
+<ul>
+<li>这个就单纯写一下，你们要看种子啥的官网也都有，纯粹好看</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>1.20.1生存服务器复活了！</title>
+        <title>1.20.1生存服务器</title>
         <author>
             <name>leipishu_服主</name>
         </author>
@@ -222,8 +265,7 @@
         <updated>2024-07-31T16:42:04+08:00</updated>
             <summary>
                 <![CDATA[
-                    <p class="align-center msg--success msg msg--highlight "><strong><span style="color: #169179;">当前服务器正在维护和升级</span></strong></p>
-<p class="msg--highlight  align-center msg--info msg">预计30分钟后将会完成升级，添加的模组见<a href="#non-existing-post-with-id-2">[官网公告]</a>，维护中请不要进入服务器</p>
+                    <p class="align-center msg--success msg msg--highlight "><strong><span style="color: #169179;">当前服务器升级完成！</span></strong></p>
 <h4>欢迎回来，时隔半年，中途结束了<span style="color: #f1c40f;">匠魂、infinity、1.21生电</span>三个服务器，终于我们决定继续完成1.20.1服务器暂时还未完成的内容（例如全成就、红石轻度生电......)</h4>
 <h5>但是现在为保证游玩的趣味性、稳定性、规则性，现在对服务器有以下要求请各位玩家仔细阅读！）</h5>
 <p> </p>
@@ -267,8 +309,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center msg--success msg msg--highlight "><strong><span style="color: #169179;">当前服务器正在维护和升级</span></strong></p>
-<p class="msg--highlight  align-center msg--info msg">预计30分钟后将会完成升级，添加的模组见<a href="https://leipishu-mcsmpserver.us.kg/notice.html">[官网公告]</a>，维护中请不要进入服务器</p>
+                <p class="align-center msg--success msg msg--highlight "><strong><span style="color: #169179;">当前服务器升级完成！</span></strong></p>
 <h4>欢迎回来，时隔半年，中途结束了<span style="color: #f1c40f;">匠魂、infinity、1.21生电</span>三个服务器，终于我们决定继续完成1.20.1服务器暂时还未完成的内容（例如全成就、红石轻度生电......)</h4>
 <h5>但是现在为保证游玩的趣味性、稳定性、规则性，现在对服务器有以下要求请各位玩家仔细阅读！）</h5>
 <p> </p>
