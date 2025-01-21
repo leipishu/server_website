@@ -3,7 +3,7 @@
     <title>leipishu-mcsmpserver</title>
     <link href="https://leipishu-mcsmpserver.us.kg/feed.xml" rel="self" />
     <link href="https://leipishu-mcsmpserver.us.kg" />
-    <updated>2025-01-21T11:12:50+08:00</updated>
+    <updated>2025-01-21T11:21:06+08:00</updated>
     <author>
         <name>leipishu_服主</name>
     </author>
@@ -208,20 +208,8 @@
         <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" medium="image" />
 
         <updated>2024-07-31T19:21:59+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" alt="" />
-                    服务器公告：（长期）当前服务器任务 服务器公告：（长期） 当前租借 服务器公告：
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" class="type:primaryImage" alt="" /></p>
-                <h1><strong><span style="color: #f1c40f;">服务器公告：（长期）</span><span style="color: #ba372a;">当前服务器任务</span></strong></h1>
-<h1 style="margin-top: 2.28571rem; font-family: var(--font-base); font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing); font-size: 1.80203em;"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold);"><span style="color: #3598db;"><span style="color: #843fa1;">服务器公告：（长期） </span><span style="color: #000000;">当前租借</span></span></span></h1>
-<h1><strong><span style="color: #3598db;">服务器公告：</span></strong></h1>
-            ]]>
-        </content>
+            <summary></summary>
+        <content></content>
     </entry>
     <entry>
         <title>1.20.1生存服务器复活了！</title>

@@ -91,8 +91,6 @@
             "id": "https://leipishu-mcsmpserver.us.kg/notice.html",
             "url": "https://leipishu-mcsmpserver.us.kg/notice.html",
             "title": "服务器公告",
-            "summary": "服务器公告：（长期）当前服务器任务 服务器公告：（长期） 当前租借 服务器公告：",
-            "content_html": "<h1><strong><span style=\"color: #f1c40f;\">服务器公告：（长期）</span><span style=\"color: #ba372a;\">当前服务器任务</span></strong></h1>\n<h1 style=\"margin-top: 2.28571rem; font-family: var(--font-base); font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing); font-size: 1.80203em;\"><span style=\"color: var(--headings-color); font-weight: var(--font-weight-bold);\"><span style=\"color: #3598db;\"><span style=\"color: #843fa1;\">服务器公告：（长期） </span><span style=\"color: #000000;\">当前租借</span></span></span></h1>\n<h1><strong><span style=\"color: #3598db;\">服务器公告：</span></strong></h1>",
             "image": "https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg",
             "author": {
                 "name": "leipishu_服主"
@@ -100,7 +98,7 @@
             "tags": [
             ],
             "date_published": "2024-07-31T19:21:59+08:00",
-            "date_modified": "2025-01-14T17:09:50+08:00"
+            "date_modified": "2025-01-21T11:21:06+08:00"
         },
         {
             "id": "https://leipishu-mcsmpserver.us.kg/home.html",
