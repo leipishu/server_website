@@ -3,7 +3,7 @@
     <title>leipishu-mcsmpserver</title>
     <link href="https://leipishu-mcsmpserver.us.kg/feed.xml" rel="self" />
     <link href="https://leipishu-mcsmpserver.us.kg" />
-    <updated>2025-01-21T12:35:12+08:00</updated>
+    <updated>2025-01-23T11:41:13+08:00</updated>
     <author>
         <name>leipishu_服主</name>
     </author>
@@ -211,43 +211,73 @@
             <summary>
                 <![CDATA[
                         <img src="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" alt="" />
-                    当前服务器升级完成！ 注：大家模组不要自己去PCL上下，这玩意只有GitHub有，CF和MT都没有 服务端：更新MOTD 这个就单纯写一下，你们要看种子啥的官网也都有，纯粹好看
+                    2024/1/23 新增四个模组 请各位一定要加入，这些是服务端模组，不加无法加入服务器！ 这些模组均可以在PCL下载，请注意版本，下载后请与这张表核对下载的文件是否正确，两个前置mod都是“[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.14”的，在PCL中可以看到，实在实在找不到再来问我要 注：大家模组不要自己去PCL上下，这玩意只有GitHub有，CF和MT都没有 服务端：更新MOTD，添加四个新 这个就单纯写一下，你们要看种子啥的官网也都有，纯粹好看
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="msg msg--highlight  msg--success align-center"><strong><span style="color: #169179;">当前服务器升级完成！</span></strong></p>
-<h4>具体升级项目</h4>
+                <h4><span style="color: #000000;">2024/1/23</span></h4>
+<h3><span style="color: #000000;">新增四个模组</span></h3>
+<p class="msg msg--warning align-center"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold); text-align: center;"><span style="color: #ba372a;">请各位一定要加入，这些是服务端模组，不加无法加入服务器！</span></span></p>
+<table style="border-collapse: collapse; width: 100%; height: 277.119px;" border="1">
+<tbody>
+<tr style="height: 50.1051px;">
+<td style="width: 49.9457%; height: 50.1051px;">名称</td>
+<td style="width: 49.9474%; height: 50.1051px;">作用</td>
+</tr>
+<tr style="height: 50.1051px;">
+<td style="width: 49.9457%; height: 50.1051px;"><span style="color: #7e8c8d;">kotlinforforge-4.11.0-all</span></td>
+<td style="width: 49.9474%; height: 50.1051px;"><span style="color: #7e8c8d;">前置</span></td>
+</tr>
+<tr style="height: 50.1051px;">
+<td style="width: 49.9457%; height: 50.1051px;"><span style="color: #7e8c8d;">libIPN-forge-1.20-4.0.2</span></td>
+<td style="width: 49.9474%; height: 50.1051px;"><span style="color: #7e8c8d;">前置</span></td>
+</tr>
+<tr style="height: 76.699px;">
+<td style="width: 49.9457%; height: 76.699px;">[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.14</td>
+<td style="width: 49.9474%; height: 76.699px;">在背包和箱子等容器中添加整理按钮</td>
+</tr>
+<tr style="height: 50.1051px;">
+<td style="width: 49.9457%; height: 50.1051px;">[鼠标手势] MouseTweaks-forge-mc1.20.1-2.25.1</td>
+<td style="width: 49.9474%; height: 50.1051px;">允许你通过拖动的方式移动物品到箱子</td>
+</tr>
+</tbody>
+</table>
+<p class="msg--success msg msg--highlight ">这些模组均可以在PCL下载，请注意<strong>版本</strong>，下载后请与这张表<span style="color: #000000;"><strong>核对下载的文件是否正确</strong></span>，两个前置mod都是<em>“[一键背包整理Next] InventoryProfilesNext-forge-1.20-1.10.14”</em>的，在<strong>PCL</strong>中可以看到，实在实在找不到再来问我要</p>
+<p> </p>
+<h4><span style="color: #7e8c8d;">2024/1/22</span></h4>
+<h4><span style="color: #7e8c8d;">具体升级项目</span></h4>
 <ul>
 <li>
-<h6>客户端：MASA全家桶</h6>
+<h6><span style="color: #7e8c8d;">客户端：MASA全家桶</span></h6>
 <ul>
-<li>应大家的要求加入了除carpet以外的重要生电模组
+<li><span style="color: #7e8c8d;">应大家的要求加入了除carpet以外的重要生电模组</span>
 <ul>
-<li style="padding-left: 0.457143rem;">Tweakroo</li>
-<li style="padding-left: 0.457143rem;">MaLiLib</li>
-<li style="padding-left: 0.457143rem;">MiniHud</li>
-<li style="padding-left: 0.457143rem;">Litematica（投影）</li>
+<li style="padding-left: 0.457143rem;"><span style="color: #7e8c8d;">Tweakroo</span></li>
+<li style="padding-left: 0.457143rem;"><span style="color: #7e8c8d;">MaLiLib</span></li>
+<li style="padding-left: 0.457143rem;"><span style="color: #7e8c8d;">MiniHud</span></li>
+<li style="padding-left: 0.457143rem;"><span style="color: #7e8c8d;">Litematica（投影）</span></li>
 </ul>
 </li>
-<li>本来准备用<span style="color: #236fa1;"><em>信雅互联</em></span>的，但是这玩意实在是脑抽，而且会和Optifine冲突（这玩意搞了我半小时最后放弃了）</li>
-<li>后老找了半天终于在GitHub上找到了大佬的移植版本，虽然已经Archive了，但是好在1.20.1版本刚好有，所以就加了，也没啥bug</li>
-<li><strong>下载链接</strong>
+<li><span style="color: #7e8c8d;">本来准备用<em>信雅互联</em>的，但是这玩意实在是脑抽，而且会和Optifine冲突（这玩意搞了我半小时最后放弃了）</span></li>
+<li><span style="color: #7e8c8d;">后老找了半天终于在GitHub上找到了大佬的移植版本，虽然已经Archive了，但是好在1.20.1版本刚好有，所以就加了，也没啥bug</span></li>
+<li><strong><span style="color: #7e8c8d;">下载链接</span></strong>
 <ul>
-<li>主链接：<a href="https://www.123865.com/s/O2wzjv-0CtK3?">https://www.123865.com/s/O2wzjv-0CtK3?</a></li>
-<li>备用链接：<a href="https://www.123684.com/s/O2wzjv-0CtK3?">https://www.123684.com/s/O2wzjv-0CtK3?</a></li>
-<li>提取码：masa</li>
-</ul>
-</li>
+<li><span style="color: #7e8c8d;">主链接：<a href="https://www.123865.com/s/O2wzjv-0CtK3?" style="color: #7e8c8d;">https://www.123865.com/s/O2wzjv-0CtK3?</a></span></li>
+<li><span style="color: #7e8c8d;">备用链接：<a href="https://www.123684.com/s/O2wzjv-0CtK3?" style="color: #7e8c8d;">https://www.123684.com/s/O2wzjv-0CtK3?</a></span></li>
+<li><span style="color: #7e8c8d;">提取码：masa</span></li>
 </ul>
 </li>
 </ul>
-<p class="msg msg--highlight ">注：大家模组不要自己去PCL上下，这玩意只有GitHub有，CF和MT都没有</p>
+</li>
+</ul>
+<p class="msg msg--highlight "><span style="color: #7e8c8d;">注：大家模组不要自己去PCL上下，这玩意只有GitHub有，CF和MT都没有</span></p>
 <ul>
-<li><strong>服务端：更新MOTD</strong>
+<li>
+<h6><span style="color: #7e8c8d;">服务端：更新MOTD，添加四个新</span></h6>
 <ul>
-<li>这个就单纯写一下，你们要看种子啥的官网也都有，纯粹好看</li>
+<li><span style="color: #7e8c8d;">这个就单纯写一下，你们要看种子啥的官网也都有，纯粹好看</span></li>
 </ul>
 </li>
 </ul>
