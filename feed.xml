@@ -3,12 +3,49 @@
     <title>leipishu-mcsmpserver</title>
     <link href="https://leipishu-mcsmpserver.us.kg/feed.xml" rel="self" />
     <link href="https://leipishu-mcsmpserver.us.kg" />
-    <updated>2025-01-25T10:17:21+08:00</updated>
+    <updated>2025-02-12T17:31:49+08:00</updated>
     <author>
         <name>leipishu_服主</name>
     </author>
     <id>https://leipishu-mcsmpserver.us.kg</id>
 
+    <entry>
+        <title>服务器备案</title>
+        <author>
+            <name>leipishu_服主</name>
+        </author>
+        <link href="https://leipishu-mcsmpserver.us.kg/fu-wu-qi-bei-an.html"/>
+        <id>https://leipishu-mcsmpserver.us.kg/fu-wu-qi-bei-an.html</id>
+        <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/11/Wei-Xin-Tu-Pian_20240915131342.jpg" medium="image" />
+
+        <updated>2025-02-12T17:25:32+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/11/Wei-Xin-Tu-Pian_20240915131342.jpg" alt="" />
+                    本文章用于备案所有宠物/房屋等信息 StormMessager：X Backrooms（开放使用） leipishu：萝卜田旁云杉木小屋 通天电梯（开放使用） industry地狱门（开放使用） 凉亭（开放使用） Ryan_Fengrh：后山穴居 StormMessager：The Lava Storm --- 赤足兽 --- 后山洞穴 The White Thunder --- 白马 --- X 房顶&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/11/Wei-Xin-Tu-Pian_20240915131342.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="msg msg--highlight   msg--info align-center"><strong><span style="color: #236fa1;">本文章用于备案所有宠物/房屋等信息</span></strong></p>
+<h5>房屋</h5>
+<p><strong>StormMessager：</strong><span style="color: #ba372a;">X</span></p>
+<p>                            Backrooms（开放使用）</p>
+<p><strong>leipishu：</strong><span style="color: #ba372a;">萝卜田旁云杉木小屋</span></p>
+<p>                 通天电梯（开放使用）</p>
+<p>                 industry地狱门（开放使用）</p>
+<p>                 凉亭（开放使用）</p>
+<p><strong>Ryan_Fengrh：</strong><span style="color: #ba372a;">后山穴居</span></p>
+<h5>宠物</h5>
+<p><strong>StormMessager：</strong>The Lava Storm --- 赤足兽 --- 后山洞穴</p>
+<p>                             The White Thunder --- 白马 --- X 房顶</p>
+<p><strong>leipishu：</strong>雷劈马 *2 --- 白马 / 棕马 --- 萝卜田旁云杉木小屋/一楼楼梯后</p>
+<p><strong>Ryan_Fengrh：</strong>Ryan's horse -- 白马 --- 后山茅坑</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>生电投影模组使用教程</title>
         <author>
@@ -327,14 +364,16 @@
 <li>一经发现剥夺该机器使用权（根据情节<strong><span style="color: #3598db;">3天-1周</span></strong>）赔偿剩余玩家每人<strong><span style="color: #3598db;">30钻石</span></strong><span style="color: #3598db;"><span style="color: #000000;">，服务器活动资金</span></span><strong><span style="color: #3598db;">30钻石</span></strong></li>
 </ul>
 </li>
-<li><span style="color: #ba372a;"><span style="color: #000000;"><span style="color: #ba372a;"><span style="color: #000000;">他人财产未经对方允许，不得翻看，获取，可以举报！他人房屋属于个人财产，严禁未经允许私闯。</span></span></span></span>
+<li><span style="color: #ba372a;"><span style="color: #000000;"><span style="color: #ba372a;"><span style="color: #000000;">他人财产未经对方允许，不得翻看，获取，可以举报！他人房屋、宠物属于个人财产，严禁未经允许私闯。所有信息备案于 <a href="#non-existing-post-with-id-11">[官网]</a></span></span></span></span>
 <ul>
 <li>私自翻看他人财产需赔偿所翻看货物的等价内容</li>
+<li><strong><span style="color: #ba372a;">击杀</span></strong>他人宠物赔偿宠物并罚款<strong><span style="color: #3598db;">50钻石</span></strong><span style="color: #000000;">，70%给与受害玩家，其余给与服务器作为活动资金</span></li>
 <li>若物品拥有者有有效证据证明有人偷拿或私闯其房屋，可以举报，根据情节严重性处以<strong><span style="color: #3598db;">30-150钻石</span></strong>罚款，70%给与受害玩家，15%给与发现玩家（如有）剩余给与服务器作为活动资金</li>
 </ul>
 </li>
-<li>服务器若物资租借为私下交易，未报备和记录，不受服务器公约保护！财产丢失请自行寻找租借方！</li>
+<li>服务器若物资租借为私下交易，未<strong><span style="color: #ba372a;">报备</span></strong>和记录，不受服务器公约保护！财产丢失请自行寻找租借方！</li>
 <li>服务器中通过官方渠道进行的交易和记录可以寻找服主索要，若仍然不归还，服主将在官网和口头声明日期后通过修改玩家物品栏文件强制执行</li>
+<li>注：上文所提及所有<strong><span style="color: #3598db;">钻石</span></strong>可按<strong><span style="color: #3598db;">5钻石</span></strong>=<strong><span style="color: #843fa1;">1合金碎片</span></strong>替换，受害玩家可最高要求必须<strong><span style="color: #843fa1;">3合金碎片</span></strong>的等价赔偿</li>
 </ul>
 <p> </p>
 <p class="msg msg--warning">违规者将进行警告，多次无果直接/ban</p>
@@ -370,14 +409,16 @@
 <li>一经发现剥夺该机器使用权（根据情节<strong><span style="color: #3598db;">3天-1周</span></strong>）赔偿剩余玩家每人<strong><span style="color: #3598db;">30钻石</span></strong><span style="color: #3598db;"><span style="color: #000000;">，服务器活动资金</span></span><strong><span style="color: #3598db;">30钻石</span></strong></li>
 </ul>
 </li>
-<li><span style="color: #ba372a;"><span style="color: #000000;"><span style="color: #ba372a;"><span style="color: #000000;">他人财产未经对方允许，不得翻看，获取，可以举报！他人房屋属于个人财产，严禁未经允许私闯。</span></span></span></span>
+<li><span style="color: #ba372a;"><span style="color: #000000;"><span style="color: #ba372a;"><span style="color: #000000;">他人财产未经对方允许，不得翻看，获取，可以举报！他人房屋、宠物属于个人财产，严禁未经允许私闯。所有信息备案于 <a href="https://leipishu-mcsmpserver.us.kg/fu-wu-qi-bei-an.html">[官网]</a></span></span></span></span>
 <ul>
 <li>私自翻看他人财产需赔偿所翻看货物的等价内容</li>
+<li><strong><span style="color: #ba372a;">击杀</span></strong>他人宠物赔偿宠物并罚款<strong><span style="color: #3598db;">50钻石</span></strong><span style="color: #000000;">，70%给与受害玩家，其余给与服务器作为活动资金</span></li>
 <li>若物品拥有者有有效证据证明有人偷拿或私闯其房屋，可以举报，根据情节严重性处以<strong><span style="color: #3598db;">30-150钻石</span></strong>罚款，70%给与受害玩家，15%给与发现玩家（如有）剩余给与服务器作为活动资金</li>
 </ul>
 </li>
-<li>服务器若物资租借为私下交易，未报备和记录，不受服务器公约保护！财产丢失请自行寻找租借方！</li>
+<li>服务器若物资租借为私下交易，未<strong><span style="color: #ba372a;">报备</span></strong>和记录，不受服务器公约保护！财产丢失请自行寻找租借方！</li>
 <li>服务器中通过官方渠道进行的交易和记录可以寻找服主索要，若仍然不归还，服主将在官网和口头声明日期后通过修改玩家物品栏文件强制执行</li>
+<li>注：上文所提及所有<strong><span style="color: #3598db;">钻石</span></strong>可按<strong><span style="color: #3598db;">5钻石</span></strong>=<strong><span style="color: #843fa1;">1合金碎片</span></strong>替换，受害玩家可最高要求必须<strong><span style="color: #843fa1;">3合金碎片</span></strong>的等价赔偿</li>
 </ul>
 <p> </p>
 <p class="msg msg--warning">违规者将进行警告，多次无果直接/ban</p>
