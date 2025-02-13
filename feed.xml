@@ -3,7 +3,7 @@
     <title>leipishu-mcsmpserver</title>
     <link href="https://leipishu-mcsmpserver.us.kg/feed.xml" rel="self" />
     <link href="https://leipishu-mcsmpserver.us.kg" />
-    <updated>2025-02-13T18:13:02+08:00</updated>
+    <updated>2025-02-13T20:44:02+08:00</updated>
     <author>
         <name>leipishu_服主</name>
     </author>
@@ -188,19 +188,16 @@
         </author>
         <link href="https://leipishu-mcsmpserver.us.kg/resourcepacks.html"/>
         <id>https://leipishu-mcsmpserver.us.kg/resourcepacks.html</id>
-        <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/9/Ping-Mu-Jie-Tu-2024-10-13-134747.png" medium="image" />
             <category term="教程"/>
 
         <updated>2024-10-12T18:35:31+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/9/Ping-Mu-Jie-Tu-2024-10-13-134747.png" alt="" />
                     下载链接见文末 在生电中，为了方便我们看清红石和使用一些功能，我们通常会使用红显一类的材质包 而其中最著名的就是由B站UP主XeKr制作的红显和方块纹理 这两款整合包都提供了红石显示功能，只不过，方块纹理材质包几乎是改变了全部的纹理，有些方块还是比较夸张的，因此大家可以按照需要选择 注意，一下材质均需要CITResewn支持，大家可以从网盘或PCL中下载 网盘链接：前往→ 红显：（红石 附魔书） 由于红显有部分例如药水的显示缺失，可以搭配 miles 全家桶（高版本适配不佳）或ultimacraft一起使用 同时，在生电辅助模组使用教程-Tweakeroo中提到的汉化模组，也在本章的下载链接中 下载链接： 主连接：前往→ 备用链接：前往→ miles全家桶：前往→ miles全家桶备用链接：前往→ ultimacraft：前往→ ultimacraft备用链接：前往→
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/9/Ping-Mu-Jie-Tu-2024-10-13-134747.png" class="type:primaryImage" alt="" /></p>
                 <p class="align-center msg msg--info">下载链接见文末</p>
 <p>在生电中，为了方便我们看清红石和使用一些功能，我们通常会使用<span style="color: #ba372a;">红显</span>一类的材质包</p>
 <p>而其中最著名的就是由<a href="B站UP主XeKr" target="_blank" rel="noopener noreferrer">B站UP主XeKr</a>制作的<span style="color: #ba372a;">红显<span style="color: #000000;">和</span>方块纹理</span></p>
