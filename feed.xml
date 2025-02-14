@@ -3,7 +3,7 @@
     <title>leipishu-mcsmpserver</title>
     <link href="https://leipishu-mcsmpserver.us.kg/feed.xml" rel="self" />
     <link href="https://leipishu-mcsmpserver.us.kg" />
-    <updated>2025-02-13T14:21:45+08:00</updated>
+    <updated>2025-02-13T20:44:02+08:00</updated>
     <author>
         <name>leipishu_服主</name>
     </author>
@@ -16,18 +16,15 @@
         </author>
         <link href="https://leipishu-mcsmpserver.us.kg/records.html"/>
         <id>https://leipishu-mcsmpserver.us.kg/records.html</id>
-        <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/11/Wei-Xin-Tu-Pian_20240915131342.jpg" medium="image" />
 
         <updated>2025-02-12T17:25:32+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/11/Wei-Xin-Tu-Pian_20240915131342.jpg" alt="" />
                     本文章用于备案所有宠物/房屋等信息 注意，本备案每天更新，截止时间20：00 仅备案在册的内容受 [公约] 保护, 在当天20：00前未私信备案的建筑/宠物... 在当晚游玩时，不受公约保护。但是当晚游玩时进行微信私信的登记仍受公约保护，不过只能在第二天在官网备案后才可以追究责任，追诉期一周
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/11/Wei-Xin-Tu-Pian_20240915131342.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--highlight   msg--info align-center"><strong><span style="color: #236fa1;">本文章用于备案所有宠物/房屋等信息</span></strong></p>
 <h3 class="align-center">房屋</h3>
 <table style="border-collapse: collapse; width: 100%; height: 381.53px;" border="1">
@@ -143,19 +140,16 @@
         </author>
         <link href="https://leipishu-mcsmpserver.us.kg/litemtic.html"/>
         <id>https://leipishu-mcsmpserver.us.kg/litemtic.html</id>
-        <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/10/Ping-Mu-Jie-Tu-2024-10-18-215805.png" medium="image" />
             <category term="教程"/>
 
         <updated>2024-10-18T21:08:42+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/10/Ping-Mu-Jie-Tu-2024-10-18-215805.png" alt="" />
                     投影模组可以让我们更快速地建造机器和建筑， 快捷键为：“M”， （它无法在按键绑定界面正常更改，但是会和小地图模组产生键位冲突，因此必须修改小 地图模组的按键绑定才可以正常使用） 以下是界面： 图中标注的两个就是常用的功能， 原理图目录用于查看所有投影文件 已加载原理图用于管理正在加载的原理图和加载原理图 这里也给大家分享一些投影文件，是我整合出来的 网盘链接→ 这个文件夹中的文件需要放在以下目录： .minecraft/versions/"你的版本名“/schematics 但是你如果不会的话，也可以直接用PCL→版本设置→版本文件夹 来找到这个文件夹，将这些 .litematic 文件放入，重启/启动游戏即可 接下来，如果要显示投影，需要使用”木棍“：在手持木棍的时候，按 Ctrl+鼠标滚轮，直到显示 [2/9]: 此时再按M键，打开投影菜单后，点击加载原理图 选择好你需要的投影后，点击下方 加载原理图 此时，游戏中就可以看到了&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/10/Ping-Mu-Jie-Tu-2024-10-18-215805.png" class="type:primaryImage" alt="" /></p>
                 <h4>投影模组可以让我们更快速地建造机器和建筑，</h4>
 <h3><span style="color: #b96ad9;">快捷键为：<span style="color: #000000;">“M”，</span></span></h3>
 <p>（它无法在按键绑定界面正常更改，但是会和小地图模组产生键位冲突，因此必须修改小</p>
@@ -194,19 +188,12 @@
         </author>
         <link href="https://leipishu-mcsmpserver.us.kg/resourcepacks.html"/>
         <id>https://leipishu-mcsmpserver.us.kg/resourcepacks.html</id>
-        <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/9/Ping-Mu-Jie-Tu-2024-10-13-134747.png" medium="image" />
-            <category term="教程"/>
-
-        <updated>2024-10-12T18:35:31+08:00</updated>
-            <summary>
                 <![CDATA[
-                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/9/Ping-Mu-Jie-Tu-2024-10-13-134747.png" alt="" />
                     下载链接见文末 在生电中，为了方便我们看清红石和使用一些功能，我们通常会使用红显一类的材质包 而其中最著名的就是由B站UP主XeKr制作的红显和方块纹理 这两款整合包都提供了红石显示功能，只不过，方块纹理材质包几乎是改变了全部的纹理，有些方块还是比较夸张的，因此大家可以按照需要选择 注意，一下材质均需要CITResewn支持，大家可以从网盘或PCL中下载 网盘链接：前往→ 红显：（红石 附魔书） 由于红显有部分例如药水的显示缺失，可以搭配 miles 全家桶（高版本适配不佳）或ultimacraft一起使用 同时，在生电辅助模组使用教程-Tweakeroo中提到的汉化模组，也在本章的下载链接中 下载链接： 主连接：前往→ 备用链接：前往→ miles全家桶：前往→ miles全家桶备用链接：前往→ ultimacraft：前往→ ultimacraft备用链接：前往→
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/9/Ping-Mu-Jie-Tu-2024-10-13-134747.png" class="type:primaryImage" alt="" /></p>
                 <p class="align-center msg msg--info">下载链接见文末</p>
 <p>在生电中，为了方便我们看清红石和使用一些功能，我们通常会使用<span style="color: #ba372a;">红显</span>一类的材质包</p>
 <p>而其中最著名的就是由<a href="B站UP主XeKr" target="_blank" rel="noopener noreferrer">B站UP主XeKr</a>制作的<span style="color: #ba372a;">红显<span style="color: #000000;">和</span>方块纹理</span></p>
@@ -273,19 +260,16 @@
         </author>
         <link href="https://leipishu-mcsmpserver.us.kg/emergency-reconnect.html"/>
         <id>https://leipishu-mcsmpserver.us.kg/emergency-reconnect.html</id>
-        <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/4/04f5839b995412261f87945263f200a.jpg" medium="image" />
             <category term="教程"/>
 
         <updated>2024-08-01T10:25:04+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/4/04f5839b995412261f87945263f200a.jpg" alt="" />
                     如果假如服务器时提示：无效的会话（此时日志为： [09:32:20] [信息] [minecraft/ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@3217c767[id=&lt;null&gt;,name=leipishu,properties={},legacy=false] (/180.172.101.166:10025) 断开了连接,原因为: Disconnected 正常应该是这样的： [09:34:23] [User Authenticator #1/INFO] [minecraft/ServerLoginPacketListenerImpl]: UUID of player leipishu is 90b1f0aa-c9b7-47e5-98f7-8ee7ca6e8cd6 然后我确认了一下，是在登入中的时候出现的问题，建议我重启游戏或启动器，我重启了游戏和启动器都没有解决，然后我猜测是账号问题，就点击了切换账号，然后重新选择原来的账号，点击登录 这样在进入游戏就正常了，不确定你们有没有这个问题，但如果有都可以参考这篇文章的做法。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/4/04f5839b995412261f87945263f200a.jpg" class="type:primaryImage" alt="" /></p>
                 <p>如果假如服务器时提示：无效的会话（此时日志为：</p>
 <blockquote>
 <p class="msg msg--highlight ">[09:32:20] [信息] [minecraft/ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@3217c767[id=&lt;null&gt;,name=leipishu,properties={},legacy=false] (/180.172.101.166:10025) 断开了连接,原因为: Disconnected</p>
@@ -308,18 +292,15 @@
         </author>
         <link href="https://leipishu-mcsmpserver.us.kg/log.html"/>
         <id>https://leipishu-mcsmpserver.us.kg/log.html</id>
-        <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/3/Ping-Mu-Jie-Tu-2024-07-31-193120.png" medium="image" />
 
         <updated>2024-07-31T19:33:54+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/3/Ping-Mu-Jie-Tu-2024-07-31-193120.png" alt="" />
                     √ 2025.1.14 服务器创建完成 √ 2025.1.19 FRHSB级-4C8T刷铁机建造完成
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/3/Ping-Mu-Jie-Tu-2024-07-31-193120.png" class="type:primaryImage" alt="" /></p>
                 <p><span style="color: #169179;">√ 2025.1.14 <span style="color: #000000;">服务器创建完成</span></span></p>
 <p><span style="color: #169179;">√ 2025.1.19 <span style="color: #000000;">FRHSB级-4C8T<span style="color: #169179;"><span style="color: #000000;">刷铁机建造完成</span></span></span></span></p>
             ]]>
@@ -332,12 +313,10 @@
         </author>
         <link href="https://leipishu-mcsmpserver.us.kg/notice.html"/>
         <id>https://leipishu-mcsmpserver.us.kg/notice.html</id>
-        <media:content url="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" medium="image" />
 
         <updated>2024-07-31T19:21:59+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" alt="" />
                     <h4><span style="color: #000000;">2025/1/25</span></h4>
 <h5>刷石小屋已管理员被移至山脚，结构名称</h5>
 <p><code>minecraft：stoner</code></p>
@@ -347,7 +326,6 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://leipishu-mcsmpserver.us.kg/media/posts/2/007b71d4508e495cac064081bcec7e34.jpg" class="type:primaryImage" alt="" /></p>
                 <h4><span style="color: #000000;">2025/1/25</span></h4>
 <h5>刷石小屋已管理员被移至山脚，结构名称</h5>
 <p><code>minecraft：stoner</code></p>
